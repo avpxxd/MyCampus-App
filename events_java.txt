@@ -1,0 +1,262 @@
+﻿        events.add(new Models.EventItem(
+                "ev_1",
+                "SSHRC Partnership Engage Grant Information Session",
+                "Workshop",
+                "Sep", "25",
+                "Friday, Sep 25 2026, 10:30 am to 11:30 am",
+                "Microsoft Teams",
+                "Learn how to make a successful submission to the SSHRC Partnership Engage Grant program.",
+                true,
+                "https://www.stfx.ca/events/sshrc-partnership-engage-grant-information-session-1",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Aerial-view-campus.png?h=4a7d1ed4&itok=P_m_Y_e8",
+                "Friday, Sep 25 2026, 10:30 am to 11:30 am"
+        ));
+        events.add(new Models.EventItem(
+                "ev_2",
+                "Economics Research Seminar",
+                "Seminar",
+                "Sep", "25",
+                "Friday, Sep 25 2026, 4 pm to 5:15 pm",
+                "Mulroney Hall",
+                "\"On the measurement of a negative supply shock in cool-climate viticulture\" Liam Elbourne, Oxford...",
+                true,
+                "https://www.stfx.ca/events/economics-research-seminar-7",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/LiamElbourne.png?h=68a373e8&itok=dCl9LS7d",
+                "Friday, Sep 25 2026, 4 pm to 5:15 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_3",
+                "ACA @ StFX Baseball (double header, 1pm & 4:30pm)",
+                "Sports",
+                "Sep", "26",
+                "Saturday, Sep 26 2026, All day",
+                "Credit Union Field, Antigonish",
+                "ACA @ StFX Baseball (double header, 1pm & 4:30pm)",
+                false,
+                "https://www.stfx.ca/events/aca-stfx-baseball-double-header-1pm-430pm",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Baseball.png?h=8a7fc05e&itok=h6XJLCdu",
+                "Saturday, Sep 26 2026, All day"
+        ));
+        events.add(new Models.EventItem(
+                "ev_4",
+                "FADE X FLOW POP-UP",
+                "Event",
+                "Sep", "26",
+                "Saturday, Sep 26 2026, 11 am to 5 pm",
+                "Convenience U Space, 2nd Floor Bloomfield Centre",
+                "Fade x Flow is bringing fresh cuts and styles to StFX!ðŸ’ˆ Join us for our first pop-up event on...",
+                false,
+                "https://www.stfx.ca/events/fade-x-flow-pop",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Fade%20X%20Flow.jpeg?h=f19779e1&itok=KjLpJrm7",
+                "Saturday, Sep 26 2026, 11 am to 5 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_5",
+                "StFX Men's Lacrosse hosts DAL",
+                "Sports",
+                "Sep", "26",
+                "Saturday, Sep 26 2026, 2:30 pm to 4 pm",
+                "StFX Stadium",
+                "StFX Men's Lacrosse hosts DAL",
+                false,
+                "https://www.stfx.ca/events/stfx-mens-lacrosse-hosts-dal",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Lacrosse_MEN_0.png?h=8a7fc05e&itok=f8xXp5YZ",
+                "Saturday, Sep 26 2026, 2:30 pm to 4 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_6",
+                "StFX Women Lacrosse hosts SMU",
+                "Sports",
+                "Sep", "26",
+                "Saturday, Sep 26 2026, 4:30 pm to 6 pm",
+                "StFX Stadium",
+                "StFX Women Lacrosse hosts SMU",
+                false,
+                "https://www.stfx.ca/events/stfx-women-lacrosse-hosts-smu",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Lacrosse_WOMEN_0.png?h=8a7fc05e&itok=w_G-FN8D",
+                "Saturday, Sep 26 2026, 4:30 pm to 6 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_7",
+                "Antigonish Performing Arts presents Duo Concertante!",
+                "Concert",
+                "Sep", "26",
+                "Saturday, Sep 26 2026, 7:30 pm to 9:30 pm",
+                "Immaculata Hall",
+                "This great violin and piano duo, champions of Canadian chamber music, Nancy Dahn and Timothy Steeves...",
+                false,
+                "https://www.stfx.ca/events/antigonish-performing-arts-presents-duo-concertante",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Duo%20Concertante%20%28Medium%29.jpg?h=56997706&itok=parQP9Pi",
+                "Saturday, Sep 26 2026, 7:30 pm to 9:30 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_8",
+                "Saturday Social: INN The Mix",
+                "Event",
+                "Sep", "26",
+                "Saturday, Sep 26 2026, 8 pm to 11:59 pm",
+                "Golden X INN",
+                "Gather your floor mates, friends, and residence rivals for an evening packed with: ðŸŽµ Music Trivia âš¡...",
+                false,
+                "https://www.stfx.ca/events/saturday-social-inn-mix",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Saturday%20Social.jpg?h=3edfa8f5&itok=yMflyijM",
+                "Saturday, Sep 26 2026, 8 pm to 11:59 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_9",
+                "FADE X FLOW POP-UP",
+                "Event",
+                "Sep", "27",
+                "Sunday, Sep 27 2026, 11 am to 5 pm",
+                "Convenience U Space, 2nd Floor Bloomfield Centre",
+                "Fade x Flow is bringing fresh cuts and styles to StFX!ðŸ’ˆ Join us for our first pop-up event on...",
+                false,
+                "https://www.stfx.ca/events/fade-x-flow-pop",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Fade%20X%20Flow.jpeg?h=f19779e1&itok=KjLpJrm7",
+                "Sunday, Sep 27 2026, 11 am to 5 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_10",
+                "StFX Baseball Double header vs UPEI",
+                "Sports",
+                "Sep", "27",
+                "Sunday, Sep 27 2026, 1 pm to 6 pm",
+                "Credit Union Field, Antigonish",
+                "Come out and cheer on the StFX Baseball team as they play a double header against UPEI",
+                false,
+                "https://www.stfx.ca/events/stfx-baseball-double-header-vs-upei",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Baseball.png?h=8a7fc05e&itok=h6XJLCdu",
+                "Sunday, Sep 27 2026, 1 pm to 6 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_11",
+                "StFX Men's Lacrosse hosts Acadia",
+                "Sports",
+                "Sep", "27",
+                "Sunday, Sep 27 2026, 2:30 pm to 4 pm",
+                "StFX Stadium",
+                "Come out and cheer on StFX Men's lacrosse as the compete against Acadia. GoXGo!",
+                false,
+                "https://www.stfx.ca/events/stfx-mens-lacrosse-hosts-acadia",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Lacrosse_MEN_0.png?h=8a7fc05e&itok=f8xXp5YZ",
+                "Sunday, Sep 27 2026, 2:30 pm to 4 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_12",
+                "StFX Women Lacrosse hosts Acadia",
+                "Sports",
+                "Sep", "27",
+                "Sunday, Sep 27 2026, 4:30 pm to 6 pm",
+                "StFX Stadium",
+                "Come out and cheer on StFX Women's lacrosse as the compete against Acadia. GoXGo!",
+                false,
+                "https://www.stfx.ca/events/stfx-women-lacrosse-hosts-acadia",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Lacrosse_WOMEN.png?h=8a7fc05e&itok=HDJ3hGNB",
+                "Sunday, Sep 27 2026, 4:30 pm to 6 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_13",
+                "Brian Mulroney Institute of Government Distinguished Speaker Series and Coady Institute Present Power and Just Transitions: Why Is It So Difficult to Move Beyond Fossil Fuels in the Face of Climate Change?",
+                "Presentation",
+                "Sep", "28",
+                "Monday, Sep 28 2026, 7 pm to 9 pm",
+                "Markin Global Complex",
+                "The Brian Mulroney Institute of Government's Distinguished Speaker Series and Coady Institute...",
+                false,
+                "https://www.stfx.ca/events/brian-mulroney-institute-government-distinguished-speaker-series-coady-institute-present",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Landing%20page_Gaventa.jpg?h=0d27ee61&itok=9hbYz4t7",
+                "Monday, Sep 28 2026, 7 pm to 9 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_14",
+                "Concert featuring Alan Syliboy and the Thundermakers on September 29",
+                "Concert",
+                "Sep", "29",
+                "Tuesday, Sep 29 2026, 7 pm to 10 pm",
+                "Schwartz Auditorium",
+                "4th concert featuring Alan Syliboy and the Thundermakers on September 29",
+                false,
+                "https://www.stfx.ca/events/concert-featuring-alan-syliboy-thundermakers-september-29",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Syliboy%202026%20%281920%20x%201080%20px%29_0.png?h=d1cb525d&itok=FrDmg-M7",
+                "Tuesday, Sep 29 2026, 7 pm to 10 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_15",
+                "UVictoria- Master of Global Business Information Session",
+                "Event",
+                "Oct", "1",
+                "Thursday, Oct 1 2026, 2:30 pm to 3:45 pm",
+                "Gerald Schwartz School of Business",
+                "A MGB recruiter will be on campus to meet with students who want to learn more about this program.",
+                false,
+                "https://www.stfx.ca/events/uvictoria-master-global-business-information-session",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/UVic%20MGB%20Gustavson%20IG%20Story%20-%20STFX%20Visit%202026_0.png?h=8e28f27e&itok=zEzCfOwD",
+                "Thursday, Oct 1 2026, 2:30 pm to 3:45 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_16",
+                "The Alumni and Co-op Career Guest Speaker Series",
+                "Event",
+                "Oct", "1",
+                "Thursday, Oct 1 2026, 5:30 pm to 6:30 pm",
+                "KMC Room 1018A",
+                "Ross Thompson (Class of '96) will be coming to campus on October 1st at 5:30. He will be sharing his...",
+                false,
+                "https://www.stfx.ca/events/alumni-co-op-career-guest-speaker-series",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Guest%20speaker%20event%20Oct%202026_0.png?h=e8711843&itok=fL1FX7CI",
+                "Thursday, Oct 1 2026, 5:30 pm to 6:30 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_17",
+                "Treaty Day Panel",
+                "Panel Discussion",
+                "Oct", "1",
+                "Thursday, Oct 1 2026, 5:30 pm to 7:30 pm",
+                "Mulroney Hall",
+                "Join the Deveau Institute for Indigenous Governance and Social Justice and Miâ€™kmaw experts in law...",
+                false,
+                "https://www.stfx.ca/events/treaty-day-panel",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Treaty-Day-Panel.jpg?h=2b89e198&itok=rf-yFaig",
+                "Thursday, Oct 1 2026, 5:30 pm to 7:30 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_18",
+                "Guest Speaker: Dan Adelman, StFX Grad and Entrepreneur",
+                "Lecture",
+                "Oct", "1",
+                "Thursday, Oct 1 2026, 6:30 pm to 7:30 pm",
+                "Schwartz Auditorium",
+                "Founder of TASÃ˜ Hospitality Group and Bambuda Hotels for a featured talk titled â€œThe Bambuda Story â€”...",
+                false,
+                "https://www.stfx.ca/events/guest-speaker-dan-adelman-stfx-grad-entrepreneur",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Dan_Adelman_Featured_Talk_4x3%20high%20res_0.png?h=dec22bcf&itok=5O6L7sgV",
+                "Thursday, Oct 1 2026, 6:30 pm to 7:30 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_19",
+                "Canada Graduate Research Scholarship - Masters (CGRS-M) Information Session",
+                "Workshop",
+                "Oct", "2",
+                "Friday, Oct 2 2026, 11:30 am to 12:30 pm",
+                "Microsoft Teams",
+                "Learn how to make a successful submission to the Canada Graduate Research Scholarship - Masters...",
+                false,
+                "https://www.stfx.ca/events/canada-graduate-research-scholarship-masters-cgrs-m-information-session",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/Aerial-view-campus.png?h=4a7d1ed4&itok=P_m_Y_e8",
+                "Friday, Oct 2 2026, 11:30 am to 12:30 pm"
+        ));
+        events.add(new Models.EventItem(
+                "ev_20",
+                "Hive for Feminist Research - October meeting",
+                "Seminar",
+                "Oct", "2",
+                "Friday, Oct 2 2026, 1 pm to 3 pm",
+                "SCHW 285",
+                "Hive for Feminist Research All welcome! Morgan Faulkner, Modern Languages Rachel Hurst, Women's &...",
+                false,
+                "https://www.stfx.ca/events/hive-feminist-research-october-meeting-0",
+                "https://www.stfx.ca/sites/default/files/styles/4_3_scale_and_crop_medium/public/images/HFR.jpg?h=3f6f3cb3&itok=Sqfz0OXg",
+                "Friday, Oct 2 2026, 1 pm to 3 pm"
+        ));
+
+

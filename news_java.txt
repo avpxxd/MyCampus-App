@@ -1,0 +1,262 @@
+﻿        newsItems.add(new Models.NewsItem(
+                "news_1",
+                "Introducing the xaverian digital",
+                "Campus News",
+                "September 24, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                true,
+                "https://www.stfx.ca/news/introducing-xaverian-digital",
+                "https://www.stfx.ca/sites/default/files/styles/1_scale_large_x2_webp/public/images/the-xaverian-fall-2026-banner-image%5B54%5D.jpg.webp?itok=NQEqZNA9"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_2",
+                "Valuing curiosity and learning: Irving Oil Research Mentorship Award enables eight StFX students to make meaningful impact",
+                "Campus News",
+                "September 23, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Irving-Oil-Research-Mentorship-Award-2026",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Irving%202026%20student%20research%20award%20recipients%20.jpg?h=82c1c9e4&itok=cNl2piqC"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_3",
+                "StFX students awarded prestigious Stewart and Lauder-Mulroney funding to pursue research",
+                "Campus News",
+                "September 16, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Stewart-Lauder-Mulroney-research-awards",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Stewart%20Lauder%202026%202%20.jpeg?h=2e726cb1&itok=j6PU1eGr"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_4",
+                "StFX Opportunities Fair provides time and space for meaningful connection, future possibilities",
+                "Campus News",
+                "September 16, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Opportunities-Fair-2026",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Opp.%20Fair%202026-3.jpg?h=03c3b1e4&itok=lEkk13Fg"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_5",
+                "Walker Wood Foundation Research Grant provides unparalleled opportunities for StFX students",
+                "Campus News",
+                "September 15, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Walker-Wood-Foundation-Research",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Walker%20Wood%202026%202%20.jpg?h=2e726cb1&itok=ldMhNnx7"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_6",
+                "From campus gardens to community food security: StFX studentâ€™s vision takes root",
+                "Campus News",
+                "September 15, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/campus-community-evan-wilson",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Evan%20Wilson.jpg?h=2e726cb1&itok=-QKmkYTx"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_7",
+                "Alley Heaps internship allows computer science students to tackle big research questions",
+                "Campus News",
+                "September 11, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Alley-Heaps-2026",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Ally%20Heaps%202026%20.jpg?h=2e726cb1&itok=gZLXaKtJ"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_8",
+                "StFXâ€™s Dr. Erin Mazerolle named Canada Research Chair in Brain Health Literacy",
+                "Campus News",
+                "September 10, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Dr-Erin-Mazerolle-Canada-Research-Chair",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Erin%20Mazerolle%20.jpg?h=2e726cb1&itok=w2agMUhM"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_9",
+                "From better understanding endometriosis to microbial life in the Bras dâ€™Or Lakes, four students explore research as StFX Open Research Award recipients",
+                "Campus News",
+                "September 9, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/StFX-Open-Research-Award",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/StFX%20Open%202026%202.jpeg?h=c9f93661&itok=7w3H6Z9y"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_10",
+                "Skills, confidence, and hands-on research highlight summer for 16 NSERC-USRA research assistants",
+                "Campus News",
+                "September 8, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/NSERC-USRA-2026",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/NSERC%202026%20student%20research%20award%20recipients%20.jpg?h=d7760433&itok=p6c-RQu0"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_11",
+                "Z.A. Hall Student Research Awards: How a legacy of creativity and invention is helping StFX student researchers",
+                "Campus News",
+                "September 1, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Z.A.-Hall-Student-Research-Award",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/ZA%20Hall%20presentation%202026%20.JPG?h=cc0d50a0&itok=OzUfsrBd"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_12",
+                "From El Salvador to the NHL: StFX business students conduct research through the Schwartz Research Summer Internship Award",
+                "Campus News",
+                "August 31, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Schwartz-Research-Summer-Internship-2026",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Schwartz%202026%20summer%20research%20award%20recipients%20.jpg?h=03c3b1e4&itok=c3JznlEI"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_13",
+                "StFX research internship leads to solution of 11-year-old mathematical conjecture",
+                "Campus News",
+                "August 26, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/Fibonacci-sequence",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Taylor%20and%20Diego%20.jpg?h=c37e0fe9&itok=CNwUVA20"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_14",
+                "StFX computer science professor organizes two international conferences in automata theory",
+                "Campus News",
+                "August 21, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/International-Conferences",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Taylor%20Smith%20conference%20group%20photo.JPG?h=178ef5ed&itok=6FtgyL39"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_15",
+                "Peacekeeping and justice: StFX professor brings global insight back from Africa",
+                "Campus News",
+                "August 21, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/global-insight",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Addis%20gate.jpg?h=5caa5369&itok=SFA5cuRv"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_16",
+                "Two teams of StFX researchers awarded nearly $300,000 in CFI funding",
+                "Campus News",
+                "August 20, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/JELF-2026",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Jelf%202026_0.png?h=d1cb525d&itok=tl8xwm8d"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_17",
+                "StFX computer science researchers tackle a core challenge in AI with evolutionary approach",
+                "Campus News",
+                "August 13, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/RevolveRL",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Revolve%20article%20photo%20.png?h=ba055917&itok=jTxkCaBm"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_18",
+                "Anthropology Department Honours Dr. Susan Vincent as Professor Emerita",
+                "Campus News",
+                "August 4, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/anthropology-department-honours-dr-susan-vincent-professor-emerita",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/Dr.%20Vincent%20-%201.jpg?h=73306683&itok=xSUwuUc1"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_19",
+                "Thirteen StFX researchers receive SSHRC Insight and Insight Development grants",
+                "Campus News",
+                "July 31, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/SSHRC-Insight",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/StFX%20graphic%20for%20website_0.jpeg?h=a6967b5f&itok=oEwfXUDZ"
+        ));
+        newsItems.add(new Models.NewsItem(
+                "news_20",
+                "SSHRC funding supports collaborative research at StFX: Eight researchers receive Partnership and Connection grants",
+                "Campus News",
+                "July 31, 2026",
+                "StFX Communications",
+                "3 min read",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                "Latest official story and academic announcement from St. Francis Xavier University.",
+                false,
+                "https://www.stfx.ca/news/SSRHC-Partnership-Connection-Grants",
+                "https://www.stfx.ca/sites/default/files/styles/16_9_scale_and_crop_small/public/images/DHSI-East%202026%20crowd%20_0.jpg?h=51a72048&itok=W-6SyQee"
+        ));
+
+
