@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StFXMyCampus" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/stfx_navy</item>
+        <item name="colorOnPrimary">@color/stfx_white</item>
+        <item name="colorPrimaryContainer">@color/stfx_blue</item>
+        <item name="colorOnPrimaryContainer">@color/stfx_white</item>
+        <item name="colorSecondary">@color/stfx_gold</item>
+        <item name="colorOnSecondary">@color/stfx_navy</item>
+        <item name="colorSecondaryContainer">@color/stfx_gold_pale</item>
+        <item name="colorOnSecondaryContainer">@color/stfx_navy</item>
+        <item name="android:statusBarColor">@color/stfx_navy</item>
+        <item name="android:navigationBarColor">@color/stfx_navy</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+    </style>
+</resources>

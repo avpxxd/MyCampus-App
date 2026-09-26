@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="stfx_navy">#001B40</color>
+    <color name="stfx_navy_dark">#001129</color>
+    <color name="stfx_blue">#002D62</color>
+    <color name="stfx_gold">#EAAA00</color>
+    <color name="stfx_gold_light">#FFC72C</color>
+    <color name="stfx_gold_pale">#FFF4D4</color>
+    <color name="stfx_white">#FFFFFF</color>
+    <color name="stfx_silver">#C2C4C7</color>
+    <color name="stfx_silver_light">#EEF0F3</color>
+    <color name="bg_light">#F8F9FB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1C2025</color>
+    <color name="text_secondary">#5C6370</color>
+    <color name="text_muted">#8A93A0</color>
+    <color name="divider_color">#E5E9EE</color>
+    <color name="badge_athletics">#002D62</color>
+    <color name="badge_academic">#1D6F42</color>
+    <color name="badge_social">#8A2BE2</color>
+    <color name="badge_career">#B25900</color>
+</resources>
