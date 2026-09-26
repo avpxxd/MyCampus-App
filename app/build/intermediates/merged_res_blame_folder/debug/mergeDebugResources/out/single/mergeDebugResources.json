@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_fragment_store.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\fragment_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_chip_unselected.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_chip_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_news.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_chip_selected.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_chip_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_today.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_badge_gold.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_badge_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_search_input.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_search_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_fragment_events.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "ca.stfx.mycampus.app-debug-34:/layout_fragment_news.xml.flat",
+        "source": "ca.stfx.mycampus.app-main-36:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_calendar_header.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_calendar_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_fragment_mycampus.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\fragment_mycampus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "ca.stfx.mycampus.app-debug-34:/layout_fragment_today.xml.flat",
+        "source": "ca.stfx.mycampus.app-main-36:/layout/fragment_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_logo_badge.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_logo_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_activity_web_viewer.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\activity_web_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_calendar_badge.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_calendar_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_stfx_logo.png.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\stfx_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_store.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_fragment_today.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\fragment_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_play_circle.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_play_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_events.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_stfx_crest.png.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\stfx_crest.png"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_calendar_add.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_calendar_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_stfx_official_logo.png.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\stfx_official_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_open_in_browser.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_open_in_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_video_thumbnail.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_video_thumbnail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_mycampus.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_mycampus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-debug-34:\\drawable_bg_badge_navy.xml.flat",
+        "source": "C:\\Users\\Lopin\\.gradle\\daemon\\8.11.1\\ca.stfx.mycampus.app-main-36:\\drawable\\bg_badge_navy.xml"
+    }
+]
