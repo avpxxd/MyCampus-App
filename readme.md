@@ -8,4 +8,4 @@ Fix Weather Widget,
 Implement Store Button bringing you back to store home page, 
 Fix Store View (too wide), 
 Add Icons To Links, 
-Add Server Pop-ups, For Feedback, Surveys,  And Notifications
+Add Server Pop-ups, For Feedback, Surveys,  Beta Updates, And Notifications
