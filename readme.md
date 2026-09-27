@@ -1,6 +1,6 @@
 To Do:
 Fix Ugly Popups, 
-Fix News Lag, 
+Fix News Lag when loading articles, 
 Add GoXGo News to News, 
 Remove "this week" by announcement tag, 
 Update App Icon, 
